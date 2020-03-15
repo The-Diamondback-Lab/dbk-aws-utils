@@ -1,0 +1,27 @@
+{
+  "name": "dbk-aws-utils",
+  "version": "1.0.0",
+  "description": "AWS Utilities used by the Diamondback Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/The-Diamondback-Lab/dbk-aws-utils.git"
+  },
+  "keywords": [
+    "aws",
+    "node-js"
+  ],
+  "author": "Vishal Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/The-Diamondback-Lab/dbk-aws-utils/issues"
+  },
+  "homepage": "https://github.com/The-Diamondback-Lab/dbk-aws-utils#readme",
+  "dependencies": {
+    "aws-sdk": "^2.639.0",
+    "dotenv": "^8.2.0"
+  }
+}
