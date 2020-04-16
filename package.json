@@ -13,6 +13,9 @@
   ],
   "author": "Vishal Patel",
   "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  },
   "bugs": {
     "url": "https://github.com/The-Diamondback-Lab/dbk-aws-utils/issues"
   },
