@@ -1,6 +1,6 @@
 {
   "name": "dbk-aws-utils",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "AWS Utilities used by the Diamondback Lab",
   "main": "index.js",
   "repository": {
